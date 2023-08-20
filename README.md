@@ -1,6 +1,8 @@
 
   # Login
 
+*LOGIN BUTTON PNG AND BACKGROUND PNG HAS BEEN ATTACHED. BACKGROUND PNG TO BE USED AT 25% OPACITY WITH THE EARTH CENETRED, IMAGE TO BE ENLARGENED AS WELL*
+  
   Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
 
   To preview and run the project on your device:
